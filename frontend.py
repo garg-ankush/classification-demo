@@ -7,7 +7,7 @@ from transformers import AutoTokenizer, AutoModel
 
 # Page configuration
 st.set_page_config(
-    page_title="App to classify text messages into categories",
+    page_title="Loneliness Classification App",
     page_icon="📝",
     layout="wide"
 )
@@ -25,7 +25,7 @@ st.markdown("""
     """, unsafe_allow_html=True)
 
 # Title and description
-st.title('📝 App to classify text messages into categories')
+st.title('📝 Loneliness Classification App')
 st.markdown("""
     This is a demo app to classify text messages into pre-defined categories that can help
     specialists focus on the type of response they should give to the user.
