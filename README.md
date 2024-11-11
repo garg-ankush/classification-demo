@@ -2,7 +2,9 @@
 
 ## Overview
 
-This project demonstrates a machine learning application that classifies text into different categories of loneliness. It uses the FIG-Loneliness dataset to train models that can identify various aspects of loneliness expressions in text.
+This project demonstrates a machine learning application that is deployed online. This application classifies text into different categories for the peer specialist to take action on. It uses the FIG-Loneliness dataset to train models that can identify various aspects of loneliness expressions in text.
+
+## NOTE: This is a demo version of the application. The model is not very accurate yet. Please seek professional help if you are feeling lonely.
 
 Demo: [Loneliness Classification App](https://classification-demo-0.streamlit.app/)
 
